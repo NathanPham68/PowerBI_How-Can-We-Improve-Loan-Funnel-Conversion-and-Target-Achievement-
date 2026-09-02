@@ -123,6 +123,10 @@ DIM_BRANCH ───────────► Branch
 DIM_DATE ─────────────► Signup / Application / Approval / Disbursement Date
 ```
 
+### Entity Relationship Diagram Model
+
+<img width="1200" height="705" alt="image" src="https://github.com/user-attachments/assets/879925fd-7d78-4acf-88e3-351c42774110" />
+
 ---
 
 ## 🧠 Analytical Approach
