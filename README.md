@@ -1,0 +1,2 @@
+# PowerBI_How-Can-We-Improve-Loan-Funnel-Conversion-and-Target-Achievement-
+An interactive Power BI dashboard analyzing the consumer loan funnel from marketing leads to disbursement, with insights into conversion, branch performance, processing time, and target achievement. The project also extends into repayment and outstanding-balance analysis to support portfolio monitoring using synthetic banking data.
