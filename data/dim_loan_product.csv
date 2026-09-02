@@ -1,0 +1,201 @@
+LoanProductID,LoanProductCode,LoanProductName,LoanCategory,CustomerSegment
+1,MORTGAGE_001,Vay mua nhà gói 1,Mortgage,Affluent
+2,MORTGAGE_002,Vay mua nhà gói 2,Mortgage,SME
+3,MORTGAGE_003,Vay mua nhà gói 3,Mortgage,Mass
+4,MORTGAGE_004,Vay mua nhà gói 4,Mortgage,Mass
+5,MORTGAGE_005,Vay mua nhà gói 5,Mortgage,Mass
+6,MORTGAGE_006,Vay mua nhà gói 6,Mortgage,Mass
+7,MORTGAGE_007,Vay mua nhà gói 7,Mortgage,SME
+8,MORTGAGE_008,Vay mua nhà gói 8,Mortgage,SME
+9,MORTGAGE_009,Vay mua nhà gói 9,Mortgage,SME
+10,MORTGAGE_010,Vay mua nhà gói 10,Mortgage,Mass
+11,MORTGAGE_011,Vay mua nhà gói 11,Mortgage,SME
+12,MORTGAGE_012,Vay mua nhà gói 12,Mortgage,SME
+13,MORTGAGE_013,Vay mua nhà gói 13,Mortgage,Affluent
+14,MORTGAGE_014,Vay mua nhà gói 14,Mortgage,Affluent
+15,MORTGAGE_015,Vay mua nhà gói 15,Mortgage,Mass
+16,MORTGAGE_016,Vay mua nhà gói 16,Mortgage,Mass
+17,MORTGAGE_017,Vay mua nhà gói 17,Mortgage,SME
+18,MORTGAGE_018,Vay mua nhà gói 18,Mortgage,SME
+19,MORTGAGE_019,Vay mua nhà gói 19,Mortgage,Mass
+20,MORTGAGE_020,Vay mua nhà gói 20,Mortgage,SME
+21,MORTGAGE_021,Vay mua nhà gói 21,Mortgage,Affluent
+22,MORTGAGE_022,Vay mua nhà gói 22,Mortgage,Affluent
+23,MORTGAGE_023,Vay mua nhà gói 23,Mortgage,SME
+24,MORTGAGE_024,Vay mua nhà gói 24,Mortgage,Mass
+25,MORTGAGE_025,Vay mua nhà gói 25,Mortgage,Affluent
+26,MORTGAGE_026,Vay mua nhà gói 26,Mortgage,Affluent
+27,MORTGAGE_027,Vay mua nhà gói 27,Mortgage,SME
+28,MORTGAGE_028,Vay mua nhà gói 28,Mortgage,SME
+29,MORTGAGE_029,Vay mua nhà gói 29,Mortgage,Mass
+30,MORTGAGE_030,Vay mua nhà gói 30,Mortgage,SME
+31,MORTGAGE_031,Vay mua nhà gói 31,Mortgage,SME
+32,MORTGAGE_032,Vay mua nhà gói 32,Mortgage,Mass
+33,MORTGAGE_033,Vay mua nhà gói 33,Mortgage,SME
+34,MORTGAGE_034,Vay mua nhà gói 34,Mortgage,Affluent
+35,MORTGAGE_035,Vay mua nhà gói 35,Mortgage,Affluent
+36,MORTGAGE_036,Vay mua nhà gói 36,Mortgage,SME
+37,MORTGAGE_037,Vay mua nhà gói 37,Mortgage,SME
+38,MORTGAGE_038,Vay mua nhà gói 38,Mortgage,SME
+39,MORTGAGE_039,Vay mua nhà gói 39,Mortgage,Affluent
+40,MORTGAGE_040,Vay mua nhà gói 40,Mortgage,SME
+41,AUTOLOAN_001,Vay mua ô tô gói 1,AutoLoan,Affluent
+42,AUTOLOAN_002,Vay mua ô tô gói 2,AutoLoan,Affluent
+43,AUTOLOAN_003,Vay mua ô tô gói 3,AutoLoan,Affluent
+44,AUTOLOAN_004,Vay mua ô tô gói 4,AutoLoan,SME
+45,AUTOLOAN_005,Vay mua ô tô gói 5,AutoLoan,Mass
+46,AUTOLOAN_006,Vay mua ô tô gói 6,AutoLoan,SME
+47,AUTOLOAN_007,Vay mua ô tô gói 7,AutoLoan,Mass
+48,AUTOLOAN_008,Vay mua ô tô gói 8,AutoLoan,Mass
+49,AUTOLOAN_009,Vay mua ô tô gói 9,AutoLoan,Affluent
+50,AUTOLOAN_010,Vay mua ô tô gói 10,AutoLoan,Affluent
+51,AUTOLOAN_011,Vay mua ô tô gói 11,AutoLoan,Mass
+52,AUTOLOAN_012,Vay mua ô tô gói 12,AutoLoan,Affluent
+53,AUTOLOAN_013,Vay mua ô tô gói 13,AutoLoan,SME
+54,AUTOLOAN_014,Vay mua ô tô gói 14,AutoLoan,Affluent
+55,AUTOLOAN_015,Vay mua ô tô gói 15,AutoLoan,Affluent
+56,AUTOLOAN_016,Vay mua ô tô gói 16,AutoLoan,Affluent
+57,AUTOLOAN_017,Vay mua ô tô gói 17,AutoLoan,Mass
+58,AUTOLOAN_018,Vay mua ô tô gói 18,AutoLoan,SME
+59,AUTOLOAN_019,Vay mua ô tô gói 19,AutoLoan,Mass
+60,AUTOLOAN_020,Vay mua ô tô gói 20,AutoLoan,Mass
+61,AUTOLOAN_021,Vay mua ô tô gói 21,AutoLoan,Mass
+62,AUTOLOAN_022,Vay mua ô tô gói 22,AutoLoan,Affluent
+63,AUTOLOAN_023,Vay mua ô tô gói 23,AutoLoan,Mass
+64,AUTOLOAN_024,Vay mua ô tô gói 24,AutoLoan,SME
+65,AUTOLOAN_025,Vay mua ô tô gói 25,AutoLoan,Affluent
+66,AUTOLOAN_026,Vay mua ô tô gói 26,AutoLoan,Affluent
+67,AUTOLOAN_027,Vay mua ô tô gói 27,AutoLoan,Mass
+68,AUTOLOAN_028,Vay mua ô tô gói 28,AutoLoan,Affluent
+69,AUTOLOAN_029,Vay mua ô tô gói 29,AutoLoan,SME
+70,AUTOLOAN_030,Vay mua ô tô gói 30,AutoLoan,Mass
+71,AUTOLOAN_031,Vay mua ô tô gói 31,AutoLoan,Mass
+72,AUTOLOAN_032,Vay mua ô tô gói 32,AutoLoan,SME
+73,AUTOLOAN_033,Vay mua ô tô gói 33,AutoLoan,SME
+74,AUTOLOAN_034,Vay mua ô tô gói 34,AutoLoan,Mass
+75,AUTOLOAN_035,Vay mua ô tô gói 35,AutoLoan,SME
+76,AUTOLOAN_036,Vay mua ô tô gói 36,AutoLoan,SME
+77,AUTOLOAN_037,Vay mua ô tô gói 37,AutoLoan,Affluent
+78,AUTOLOAN_038,Vay mua ô tô gói 38,AutoLoan,SME
+79,AUTOLOAN_039,Vay mua ô tô gói 39,AutoLoan,SME
+80,AUTOLOAN_040,Vay mua ô tô gói 40,AutoLoan,SME
+81,SMELOAN_001,Vay sản xuất kinh doanh gói 1,SMELoan,Mass
+82,SMELOAN_002,Vay sản xuất kinh doanh gói 2,SMELoan,Mass
+83,SMELOAN_003,Vay sản xuất kinh doanh gói 3,SMELoan,Affluent
+84,SMELOAN_004,Vay sản xuất kinh doanh gói 4,SMELoan,SME
+85,SMELOAN_005,Vay sản xuất kinh doanh gói 5,SMELoan,SME
+86,SMELOAN_006,Vay sản xuất kinh doanh gói 6,SMELoan,SME
+87,SMELOAN_007,Vay sản xuất kinh doanh gói 7,SMELoan,Mass
+88,SMELOAN_008,Vay sản xuất kinh doanh gói 8,SMELoan,Affluent
+89,SMELOAN_009,Vay sản xuất kinh doanh gói 9,SMELoan,Mass
+90,SMELOAN_010,Vay sản xuất kinh doanh gói 10,SMELoan,SME
+91,SMELOAN_011,Vay sản xuất kinh doanh gói 11,SMELoan,Mass
+92,SMELOAN_012,Vay sản xuất kinh doanh gói 12,SMELoan,Mass
+93,SMELOAN_013,Vay sản xuất kinh doanh gói 13,SMELoan,SME
+94,SMELOAN_014,Vay sản xuất kinh doanh gói 14,SMELoan,Affluent
+95,SMELOAN_015,Vay sản xuất kinh doanh gói 15,SMELoan,SME
+96,SMELOAN_016,Vay sản xuất kinh doanh gói 16,SMELoan,Affluent
+97,SMELOAN_017,Vay sản xuất kinh doanh gói 17,SMELoan,SME
+98,SMELOAN_018,Vay sản xuất kinh doanh gói 18,SMELoan,Affluent
+99,SMELOAN_019,Vay sản xuất kinh doanh gói 19,SMELoan,Mass
+100,SMELOAN_020,Vay sản xuất kinh doanh gói 20,SMELoan,Mass
+101,SMELOAN_021,Vay sản xuất kinh doanh gói 21,SMELoan,Affluent
+102,SMELOAN_022,Vay sản xuất kinh doanh gói 22,SMELoan,Affluent
+103,SMELOAN_023,Vay sản xuất kinh doanh gói 23,SMELoan,Affluent
+104,SMELOAN_024,Vay sản xuất kinh doanh gói 24,SMELoan,SME
+105,SMELOAN_025,Vay sản xuất kinh doanh gói 25,SMELoan,Affluent
+106,SMELOAN_026,Vay sản xuất kinh doanh gói 26,SMELoan,SME
+107,SMELOAN_027,Vay sản xuất kinh doanh gói 27,SMELoan,Affluent
+108,SMELOAN_028,Vay sản xuất kinh doanh gói 28,SMELoan,Mass
+109,SMELOAN_029,Vay sản xuất kinh doanh gói 29,SMELoan,Mass
+110,SMELOAN_030,Vay sản xuất kinh doanh gói 30,SMELoan,Affluent
+111,SMELOAN_031,Vay sản xuất kinh doanh gói 31,SMELoan,Mass
+112,SMELOAN_032,Vay sản xuất kinh doanh gói 32,SMELoan,Mass
+113,SMELOAN_033,Vay sản xuất kinh doanh gói 33,SMELoan,SME
+114,SMELOAN_034,Vay sản xuất kinh doanh gói 34,SMELoan,Mass
+115,SMELOAN_035,Vay sản xuất kinh doanh gói 35,SMELoan,Mass
+116,SMELOAN_036,Vay sản xuất kinh doanh gói 36,SMELoan,Affluent
+117,SMELOAN_037,Vay sản xuất kinh doanh gói 37,SMELoan,Mass
+118,SMELOAN_038,Vay sản xuất kinh doanh gói 38,SMELoan,Mass
+119,SMELOAN_039,Vay sản xuất kinh doanh gói 39,SMELoan,Affluent
+120,SMELOAN_040,Vay sản xuất kinh doanh gói 40,SMELoan,Mass
+121,CONSUMERLOAN_001,Vay tiêu dùng cá nhân gói 1,ConsumerLoan,SME
+122,CONSUMERLOAN_002,Vay tiêu dùng cá nhân gói 2,ConsumerLoan,Affluent
+123,CONSUMERLOAN_003,Vay tiêu dùng cá nhân gói 3,ConsumerLoan,SME
+124,CONSUMERLOAN_004,Vay tiêu dùng cá nhân gói 4,ConsumerLoan,SME
+125,CONSUMERLOAN_005,Vay tiêu dùng cá nhân gói 5,ConsumerLoan,SME
+126,CONSUMERLOAN_006,Vay tiêu dùng cá nhân gói 6,ConsumerLoan,Mass
+127,CONSUMERLOAN_007,Vay tiêu dùng cá nhân gói 7,ConsumerLoan,Affluent
+128,CONSUMERLOAN_008,Vay tiêu dùng cá nhân gói 8,ConsumerLoan,Affluent
+129,CONSUMERLOAN_009,Vay tiêu dùng cá nhân gói 9,ConsumerLoan,Affluent
+130,CONSUMERLOAN_010,Vay tiêu dùng cá nhân gói 10,ConsumerLoan,Mass
+131,CONSUMERLOAN_011,Vay tiêu dùng cá nhân gói 11,ConsumerLoan,Mass
+132,CONSUMERLOAN_012,Vay tiêu dùng cá nhân gói 12,ConsumerLoan,Mass
+133,CONSUMERLOAN_013,Vay tiêu dùng cá nhân gói 13,ConsumerLoan,Affluent
+134,CONSUMERLOAN_014,Vay tiêu dùng cá nhân gói 14,ConsumerLoan,Affluent
+135,CONSUMERLOAN_015,Vay tiêu dùng cá nhân gói 15,ConsumerLoan,Affluent
+136,CONSUMERLOAN_016,Vay tiêu dùng cá nhân gói 16,ConsumerLoan,Mass
+137,CONSUMERLOAN_017,Vay tiêu dùng cá nhân gói 17,ConsumerLoan,SME
+138,CONSUMERLOAN_018,Vay tiêu dùng cá nhân gói 18,ConsumerLoan,Mass
+139,CONSUMERLOAN_019,Vay tiêu dùng cá nhân gói 19,ConsumerLoan,SME
+140,CONSUMERLOAN_020,Vay tiêu dùng cá nhân gói 20,ConsumerLoan,Mass
+141,CONSUMERLOAN_021,Vay tiêu dùng cá nhân gói 21,ConsumerLoan,SME
+142,CONSUMERLOAN_022,Vay tiêu dùng cá nhân gói 22,ConsumerLoan,Affluent
+143,CONSUMERLOAN_023,Vay tiêu dùng cá nhân gói 23,ConsumerLoan,Affluent
+144,CONSUMERLOAN_024,Vay tiêu dùng cá nhân gói 24,ConsumerLoan,Mass
+145,CONSUMERLOAN_025,Vay tiêu dùng cá nhân gói 25,ConsumerLoan,Affluent
+146,CONSUMERLOAN_026,Vay tiêu dùng cá nhân gói 26,ConsumerLoan,Affluent
+147,CONSUMERLOAN_027,Vay tiêu dùng cá nhân gói 27,ConsumerLoan,Mass
+148,CONSUMERLOAN_028,Vay tiêu dùng cá nhân gói 28,ConsumerLoan,Affluent
+149,CONSUMERLOAN_029,Vay tiêu dùng cá nhân gói 29,ConsumerLoan,Affluent
+150,CONSUMERLOAN_030,Vay tiêu dùng cá nhân gói 30,ConsumerLoan,SME
+151,CONSUMERLOAN_031,Vay tiêu dùng cá nhân gói 31,ConsumerLoan,Affluent
+152,CONSUMERLOAN_032,Vay tiêu dùng cá nhân gói 32,ConsumerLoan,Mass
+153,CONSUMERLOAN_033,Vay tiêu dùng cá nhân gói 33,ConsumerLoan,Mass
+154,CONSUMERLOAN_034,Vay tiêu dùng cá nhân gói 34,ConsumerLoan,Affluent
+155,CONSUMERLOAN_035,Vay tiêu dùng cá nhân gói 35,ConsumerLoan,SME
+156,CONSUMERLOAN_036,Vay tiêu dùng cá nhân gói 36,ConsumerLoan,Affluent
+157,CONSUMERLOAN_037,Vay tiêu dùng cá nhân gói 37,ConsumerLoan,Affluent
+158,CONSUMERLOAN_038,Vay tiêu dùng cá nhân gói 38,ConsumerLoan,Affluent
+159,CONSUMERLOAN_039,Vay tiêu dùng cá nhân gói 39,ConsumerLoan,SME
+160,CONSUMERLOAN_040,Vay tiêu dùng cá nhân gói 40,ConsumerLoan,SME
+161,CREDITCARD_001,Thẻ tín dụng gói 1,CreditCard,SME
+162,CREDITCARD_002,Thẻ tín dụng gói 2,CreditCard,Affluent
+163,CREDITCARD_003,Thẻ tín dụng gói 3,CreditCard,Mass
+164,CREDITCARD_004,Thẻ tín dụng gói 4,CreditCard,Affluent
+165,CREDITCARD_005,Thẻ tín dụng gói 5,CreditCard,Affluent
+166,CREDITCARD_006,Thẻ tín dụng gói 6,CreditCard,Mass
+167,CREDITCARD_007,Thẻ tín dụng gói 7,CreditCard,Mass
+168,CREDITCARD_008,Thẻ tín dụng gói 8,CreditCard,Affluent
+169,CREDITCARD_009,Thẻ tín dụng gói 9,CreditCard,Affluent
+170,CREDITCARD_010,Thẻ tín dụng gói 10,CreditCard,SME
+171,CREDITCARD_011,Thẻ tín dụng gói 11,CreditCard,Mass
+172,CREDITCARD_012,Thẻ tín dụng gói 12,CreditCard,SME
+173,CREDITCARD_013,Thẻ tín dụng gói 13,CreditCard,Mass
+174,CREDITCARD_014,Thẻ tín dụng gói 14,CreditCard,Affluent
+175,CREDITCARD_015,Thẻ tín dụng gói 15,CreditCard,Mass
+176,CREDITCARD_016,Thẻ tín dụng gói 16,CreditCard,SME
+177,CREDITCARD_017,Thẻ tín dụng gói 17,CreditCard,SME
+178,CREDITCARD_018,Thẻ tín dụng gói 18,CreditCard,Mass
+179,CREDITCARD_019,Thẻ tín dụng gói 19,CreditCard,Mass
+180,CREDITCARD_020,Thẻ tín dụng gói 20,CreditCard,Mass
+181,CREDITCARD_021,Thẻ tín dụng gói 21,CreditCard,SME
+182,CREDITCARD_022,Thẻ tín dụng gói 22,CreditCard,SME
+183,CREDITCARD_023,Thẻ tín dụng gói 23,CreditCard,Mass
+184,CREDITCARD_024,Thẻ tín dụng gói 24,CreditCard,SME
+185,CREDITCARD_025,Thẻ tín dụng gói 25,CreditCard,Mass
+186,CREDITCARD_026,Thẻ tín dụng gói 26,CreditCard,Mass
+187,CREDITCARD_027,Thẻ tín dụng gói 27,CreditCard,SME
+188,CREDITCARD_028,Thẻ tín dụng gói 28,CreditCard,Affluent
+189,CREDITCARD_029,Thẻ tín dụng gói 29,CreditCard,SME
+190,CREDITCARD_030,Thẻ tín dụng gói 30,CreditCard,SME
+191,CREDITCARD_031,Thẻ tín dụng gói 31,CreditCard,Mass
+192,CREDITCARD_032,Thẻ tín dụng gói 32,CreditCard,Mass
+193,CREDITCARD_033,Thẻ tín dụng gói 33,CreditCard,Affluent
+194,CREDITCARD_034,Thẻ tín dụng gói 34,CreditCard,Mass
+195,CREDITCARD_035,Thẻ tín dụng gói 35,CreditCard,SME
+196,CREDITCARD_036,Thẻ tín dụng gói 36,CreditCard,SME
+197,CREDITCARD_037,Thẻ tín dụng gói 37,CreditCard,Mass
+198,CREDITCARD_038,Thẻ tín dụng gói 38,CreditCard,Affluent
+199,CREDITCARD_039,Thẻ tín dụng gói 39,CreditCard,Affluent
+200,CREDITCARD_040,Thẻ tín dụng gói 40,CreditCard,Affluent

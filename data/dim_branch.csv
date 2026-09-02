@@ -1,0 +1,6 @@
+BranchCode,BranchName,RegionCode,RegionName,AreaCode,AreaName
+HCM1,Ho Chi Minh Branch 1,SOUTH,Southern Region,HCM,Ho Chi Minh City
+HCM2,Ho Chi Minh Branch 2,SOUTH,Southern Region,HCM,Ho Chi Minh City
+HN1,Ha Noi Branch 1,NORTH,Northern Region,HN,Ha Noi
+DN1,Da Nang Branch 1,CENTRAL,Central Region,DN,Da Nang
+CT1,Can Tho Branch 1,SOUTH,Southern Region,CT,Can Tho
